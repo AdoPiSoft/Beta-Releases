@@ -16,3 +16,7 @@ http://fb.me/adopisoft
 
 ### Download the latest beta release debian file here:
 https://github.com/AdoPiSoft/Beta-Releases/releases/latest
+
+-----
+### Download the latest stable release debian file here:
+https://github.com/AdoPiSoft/Releases/releases/latest
