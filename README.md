@@ -1,11 +1,9 @@
 # AdoPiSoft Software Beta-Releases
 
-### Any issues encountered? Please report an issue here:
-https://github.com/AdoPiSoft/Beta-Releases/issues.
-### We'll try our best to reproduce it and provide fixes asap.
-
 ----
-### To join to our exclusive beta users group chat, message us here:
+***As a beta user, if you encounter any issues/bugs on the system, we highly encouraged you to open an issue here https://github.com/AdoPiSoft/Beta-Releases/issues. Provide your hardware specs, network setup, ip address scheme, number of access points, average number of active users, and your system logs.***
+
+#### Ready to join? Message us here:
 https://m.me/adopisoft
 
 -----
